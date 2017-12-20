@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Stopwatch
+
+  Created by Mansi Barodia on 12/19/17.
+  Copyright © 2017 Mansi Barodia. All rights reserved.
+*/
+
+"startTimer" = "démarrer";
+"resetTimer" = "RÉINITIALISER";
+"pauseTimer" = "pauser";
+"resumeTimer" = "reprendre";
