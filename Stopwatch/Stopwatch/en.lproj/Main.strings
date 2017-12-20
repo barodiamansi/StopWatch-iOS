@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "Ini-36-2of"; */
+"Ini-36-2of.normalTitle" = "Reset";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "aVU-Xw-Pwa"; */
+"aVU-Xw-Pwa.text" = "00:00:00";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "rh3-aB-P67"; */
+"rh3-aB-P67.normalTitle" = "Start";
