@@ -54,6 +54,11 @@ NSString *DEFAULT_TIMER = @"00:00:00";
     self.textField.textColor = [UIColor whiteColor];
 }
 
+-(UIStatusBarStyle)preferredStatusBarStyle
+{
+    return UIStatusBarStyleLightContent;
+}
+
 - (void)stopWatchStart
 {
     if(!self.isRunning)
